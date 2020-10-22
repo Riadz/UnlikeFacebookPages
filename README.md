@@ -3,7 +3,7 @@ Simple javascript code that unlikes all liked facebook pages
 works with new facebook 2020 
 
 ## Things to note
-* Disclaimer: Follow the steps at your own risk. I am not responsible for what your are doing.
+* Disclaimer: Follow these steps at your own risk.
 * The script stops when it unliks all the pages
 * You can change the timeout by changing the value in line 12: ```wait(TimeInMs)```
 * if you change the timeout dont go under 600ms or you might get banned by facebook
