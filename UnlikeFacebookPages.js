@@ -9,7 +9,7 @@ async function unlikePages() {
   for (i = 0; i < btns.length; i++) {
     btns[i].scrollIntoView(false);
     btns[i].style.border = "3px solid #f0e01b";
-    await wait(2000);
+    await wait(1000);
     btns[i].click();
   }
 
