@@ -5,6 +5,7 @@ works with new facebook 2020
 ## Things to note
 * Disclaimer: Follow these steps at your own risk.
 * The script stops when it unliks all the pages
+* You can stop the script by refreshing the page
 * You can change the timeout by changing the value in line 12: ```wait(TimeInMs)```
 * if you change the timeout dont go under 600ms or you might get banned by facebook
 
