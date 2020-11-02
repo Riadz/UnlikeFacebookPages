@@ -19,3 +19,4 @@ works with new facebook 2020 layout
 7. Type ```unlikePages()```, hit enter, and wait until it’s done
 
 ## Preview
+[![Unlike Facebook Pages](https://img.youtube.com/vi/lncaYiZwEPg/0.jpg)](https://www.youtube.com/watch?v=lncaYiZwEPg)
