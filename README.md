@@ -1,6 +1,6 @@
 # Unlike Facebook Pages
 Simple javascript code that unlikes all liked facebook pages
-works with new facebook 2020 
+works with new facebook 2020 layout
 
 ## Things to note
 * Disclaimer: Follow these steps at your own risk.
